@@ -29,7 +29,7 @@ app.use("/admin",adminRoute)
 
 
 app.get("/", (req, res) => {
-	res.send("Welcome to Server ");
+	res.send("Welcome to My Server ");
   });
 
 
