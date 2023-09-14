@@ -48,7 +48,7 @@
 
 
 
-<h3 align="center"><a href="https://friendly-dasik-a8106b.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://client-ashen-beta.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <h3 align="center"><a href="https://github.com/osamakhan9/JustShop/assets/101393695/e90e3891-9fe6-4810-94f4-192287e69263"><strong>Demo Video »</strong></a></h3>
 
