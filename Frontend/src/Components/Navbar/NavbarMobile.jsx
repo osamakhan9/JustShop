@@ -23,7 +23,7 @@ function NavbarMobile() {
           <DrawerOverlay />
           <DrawerContent>
             <DrawerCloseButton />
-            <DrawerHeader>Finest Shave</DrawerHeader>
+            <DrawerHeader>Just Shop</DrawerHeader>
   
             <DrawerBody bgColor={"rgb(0,18,51)"}>
               <VStack color="rgb(239,224,201)">
