@@ -23,6 +23,7 @@ function NavbarMobile() {
           <DrawerOverlay />
           <DrawerContent>
             <DrawerCloseButton />
+            <DrawerHeader>Just Shop</DrawerHeader>
             <DrawerHeader>JustShop</DrawerHeader>
   
             <DrawerBody bgColor={"rgb(0,18,51)"}>
