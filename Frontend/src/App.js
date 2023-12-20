@@ -23,7 +23,7 @@ function App() {
     <Navbar/>
     <HStack p="20px"  bgColor={"rgb(0,18,51)"} display={{base:"flex",md:"none"}} justifyContent={"space-between"}>
       <Heading letterSpacing={"1.5px"} color="rgb(239,224,201)" fontSize={"19px"}>
-        Finest Shave
+        JustShop
       </Heading>
       <NavbarMobile/>
     </HStack>

@@ -24,7 +24,7 @@ function NavbarMobile() {
           <DrawerContent>
             <DrawerCloseButton />
             <DrawerHeader>Just Shop</DrawerHeader>
-            <DrawerHeader>JustShop</DrawerHeader>
+            
   
             <DrawerBody bgColor={"rgb(0,18,51)"}>
               <VStack color="rgb(239,224,201)">
